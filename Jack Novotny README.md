@@ -25,14 +25,20 @@
     To install necessary dependencies, run the following command:
     ​
     run npm install then run node index.js
+    
+    
     ​
     ## Usage
     ​
     To create a README file via node js
+    
+    
     ​
     ## Licensing
     ​
     This project is licensed under the MIT license.
+    
+    
       
 
     ## Tests
@@ -40,10 +46,14 @@
     To run tests, run the following command:
     ​
     npm test
+    
+    
 
     ## Contributors
     ​
     [jenovotny7]('https://github.com/jenovotny7') 
+    
+    
 
     ​
     ## Questions
@@ -53,9 +63,11 @@
     If you have any questions about the repo, open an issue or contact [jenovotny7](https://github.com/jenovotny7) directly at yoda@gmail.com.
     
     
+    
+    
     ## Video Link Below 
     
-    
+    https://drive.google.com/file/d/1rGX9w20u0geMmzTrTcFUhJ0Sy1UqxIpE/view
     
     
     
