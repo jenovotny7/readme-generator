@@ -117,9 +117,9 @@ function writeToFile(data) {
     ​
     ## Questions
     ​
-    <img src="${data.avatar_url}" alt="avatar" style="border-radius: 16px" width="30" />
+    <img src="${data.avatar_url}" alt="avatar" style="border-radius: 20px" width="30" />
     ​
-    If you have any questions about the repo, open an issue or contact [${data.login}](${data.html_url}) directly at ${data.blog}.
+    If you have any questions about the repo, open an issue or contact [${data.login}](${data.html_url}) at yoda.gmail.com.
     `
     
     fs.writeFile(`${data.title}.md`, myTxt , function(err){
