@@ -48,7 +48,7 @@
     ​
     ## Questions
     ​
-    <img src="https://avatars3.githubusercontent.com/u/66326058?v=4" alt="avatar" style="border-radius: 16px" width="30" />
+    <img src="https://avatars3.githubusercontent.com/u/66326058?v=4" alt="avatar" style="border-radius: 30px" width="40" />
     ​
-    If you have any questions about the repo, open an issue or contact [jenovotny7](https://github.com/jenovotny7) directly at .
+    If you have any questions about the repo, open an issue or contact [jenovotny7](https://github.com/jenovotny7) directly at yoda@gmail.com.
     
